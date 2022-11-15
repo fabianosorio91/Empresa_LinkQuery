@@ -1,0 +1,34 @@
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.exe
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.deps.json
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.runtimeconfig.json
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.runtimeconfig.dev.json
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.dll
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.pdb
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.AssemblyInfoInputs.cache
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.AssemblyInfo.cs
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.csproj.CoreCompileInputs.cache
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.dll
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.pdb
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.genruntimeconfig.cache
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.csproj.AssemblyReference.cache
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\FakeItEasy.dll
+C:\Users\jdolivaresp\Desktop\Talleres-Semillero\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.csproj.CopyComplete
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.exe
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.deps.json
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.runtimeconfig.json
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.runtimeconfig.dev.json
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.dll
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Actividad_LinkQ.pdb
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\bin\Debug\netcoreapp3.1\FakeItEasy.dll
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.csproj.AssemblyReference.cache
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.AssemblyInfoInputs.cache
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.AssemblyInfo.cs
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.csproj.CoreCompileInputs.cache
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.csproj.CopyComplete
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.dll
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.pdb
+C:\Users\fosorio\Downloads\Actividad_LinkQ (1)\Actividad_LinkQ\Actividad_LinkQ\obj\Debug\netcoreapp3.1\Actividad_LinkQ.genruntimeconfig.cache
